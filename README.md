@@ -7,4 +7,4 @@ aplikasi kalkulator yang dapat mengkalkulasi bilangan bilangan dan melakukan per
 - fitur yang cukup lengkap
 
 ## Demo
-![kalkulator demo](media/Kalkulator.GIF)
+![kalkulator demo](media/Kalkulator.mp4)

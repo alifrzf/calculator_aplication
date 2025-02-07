@@ -14,6 +14,8 @@ aplikasi kalkulator yang dapat mengkalkulasi bilangan bilangan dan melakukan per
 
 ## Memulai 
 <h2>minimum spesifikasi</h2>
-- dual core 2.3 Ghz
-- 4GB ram
-- 250 MB disk
+berikut adalah spesifikasi minimal dan yang perlu di persiapkan:
+
+- dual core 2.3Ghz
+- 4GB ram DDR 3
+- 250 MB disk (for code only)
